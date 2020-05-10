@@ -45,7 +45,7 @@ jQuery(function($, undefined) {
  }, {
 keymap: {
             'CTRL+Q': function(e, original) {
-                 switchkern("vterm.html");
+                 switchkern("index.html");
             }
        },
  greetings: 'V-TERM ' + vversion + '\n',
